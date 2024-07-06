@@ -29,8 +29,8 @@ const Header = () => {
           <FaMoon className='text-lg' />
         </Button>
         <Link to= "/signin">
-          <Button  color= "gray" pill>
-            <p className='text-base'>Sign In</p>
+          <Button  color= "dark" pill>
+            <p className='text-base' >Sign In</p>
           </Button>
         </Link>
         <NavbarToggle />
